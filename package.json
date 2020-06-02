@@ -1,0 +1,15 @@
+{
+  "name": "floating-button-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind:build": "npx tailwindcss build css/tailwind.css -o css/tailwind.bundle.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
