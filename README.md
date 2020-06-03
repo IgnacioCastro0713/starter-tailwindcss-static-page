@@ -1,6 +1,6 @@
 # Starter tailwindcss static page :rocket: 
 ### Installation :gear:
 
-> `npm install`
+> `npm install` <br>
 > `npm run tailwind:build`
 > **Enjoy**:exclamation:
