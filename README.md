@@ -2,5 +2,5 @@
 ### Installation :gear:
 
 > `npm install` <br>
-> `npm run tailwind:build`
+> `npm run tailwind:build`<br>
 > **Enjoy**:exclamation:
